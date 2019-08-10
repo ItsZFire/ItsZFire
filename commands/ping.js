@@ -6,7 +6,7 @@ module.exports.run = async (client, message, args) => {
   .setAuthor(message.author.username, message.author.displayAvatarURL)
   .setColor("#42f448")
   .setDescription(`:computer: **API Latency** - ${client.pings[0]}ms`)
-  .setFooter("Made by PritePasZ#3071")
+  .setFooter("Made by ItsZFire#5831")
    message.channel.send({embed});
 
 }

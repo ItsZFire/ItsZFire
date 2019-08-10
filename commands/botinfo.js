@@ -12,7 +12,7 @@ module.exports.run = async (bot, message, args) => {
     .setTimestamp()
     .setTitle(`Click here to join ItsZFire discord server`)
     .setDescription("Made with <:nodejs:553212483415048221> Node.js and <:discordjs:553213251488317440> Discord.js\nHosted bot for free by <:heroku:553414334156374016> Heroku")
-    .addField(`:clipboard: Created by`, `ItsZFire#5831`, true)
+    .addField(`:clipboard: Created by`, `5831#5831`, true)
     .addField(`:information_source: Version`, `${version}`, true)
     .addField(`:tools: Debug`, `Updated to version ${version}, new commands - Fun Commands!\To invite ItsZFire in to your server! type "z!invite"\nCheck out try z!help in the chat!`)
     .addField(`:robot: Bot Created Date`, bot.user.createdAt)

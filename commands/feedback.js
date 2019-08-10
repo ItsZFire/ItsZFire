@@ -17,7 +17,7 @@ module.exports.run = async (bot, message, args) => {
    .addField(":incoming_envelope: Message: ", sayMessage)
    .setTimestamp()
 
-    bot.users.get("346579836292300800").send(contact);
+    bot.users.get("609383286036365362").send(contact);
 
     let embed = new Discord.RichEmbed()
     .setColor("#f44141")
@@ -25,7 +25,7 @@ module.exports.run = async (bot, message, args) => {
     .setDescription("Your Contact message has been sent!")
     .addField(":envelope_with_arrow: Reqested by ", Sender)
     .addField(":incoming_envelope: Message: ", sayMessage)
-    .setFooter("Thanks you for contacting with the Nexsiz support!")
+    .setFooter("Thanks you for contacting with the ItsZFire support!")
 
     message.channel.send(embed);
 

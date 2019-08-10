@@ -1,4 +1,4 @@
-/*const Discord = require("discord.js");
+const Discord = require("discord.js");
 
 module.exports.run = async (bot, message, args) => {
   let bicon = bot.user.displayAvatarURL;
@@ -18,4 +18,3 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
   name: "invite"
 }
-*/

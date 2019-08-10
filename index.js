@@ -55,7 +55,7 @@ bot.on("message", async message => {
   if (message.author.bot) return;
   if (message.channel.type === "dm") return;
 
-  let prefix = 'n!';
+  let prefix = 'z!';
   if (!message.content.startsWith(prefix)) return;
   let messageArray = message.content.split(" ");
   let cmd = messageArray[0];

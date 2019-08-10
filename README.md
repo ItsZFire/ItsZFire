@@ -3,7 +3,7 @@
 [![Discord Bot](https://img.shields.io/badge/DiscordBot-Yes-green.svg)](https://discordapp.com/api/oauth2/authorize?client_id=552076002101297153&permissions=8&scope=bot)
 [![HitCount](http://hits.dwyl.com/PritePasZ/Nexsiz.svg)](http://hits.dwyl.com/PritePasZ/Nexsiz)
 
-**Made By PritePasZ**
+**Made By ItsZFire**
 
 * **Version 0.1.7b**
 
@@ -13,9 +13,9 @@ Credits : To TheSourceCode for their useful guides & tutorial on how to javascri
 
 ---
 
-# What is Nexsiz
+# What is ItsZFire
 
-Nexsiz is Discord Bot with alot of Fun commands and General Commands
+ItZFire is Discord Bot with alot of Fun commands and General Commands
 
 Host bot for 24/7
 By Heroku
@@ -28,18 +28,16 @@ By Heroku
 
 ### Using the Official Nexsiz Bot
 
-[Click here to invite Nexsiz in to your server!](https://discordapp.com/oauth2/authorize?client_id=552076002101297153&scope=bot&permissions=2146954495)
+[Click here to invite ItsZFire in to your server!](https://discordapp.com/oauth2/authorize?client_id=6093832860363653623&scope=bot&permissions=2146954495)
 
 ---
 
 # Support
-* `n!help` - To view all of the commands (bot will message in to your direct message)
+* `z!help` - To view all of the commands (bot will message in to your direct message)
 
 * If you have any questions feel free to **Join The Discord Server**
 
-* Would like to suggest features, join my bot development server here:  [Support Server & Coding (Alpha)](https://discord.gg/TPTDyPd)
-
-* Found bug? Use `n!contact` to let us know!
+* Found bug? Use `z!contact` to let us know!
 
 I am open to feedback and suggestions. Feel free to submit a pull request or open an issue :)
 

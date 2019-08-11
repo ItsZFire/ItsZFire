@@ -8,39 +8,39 @@ module.exports.run = async (bot, message, args, prefix) => {
 let helpembed = new Discord.RichEmbed()
     .setColor(`00ff00`)
     .setAuthor(`Commands & Guides`, bot.user.avatarURL)
-    .addField(`:information_source: Support`, `**n!help** - Show a list of commands & guides to your DM.\n Found some bug?, Use **n!contact** to let us know!\nUse **n!invite** to invite <@552076002101297153> in to your server!`)
-    .setFooter("Made By PritePasZ", "https://cdn.discordapp.com/avatars/346579836292300800/b02ca29aee1ec133c84377bd4235e957.png")
+    .addField(`:information_source: Support`, `**z!help** - Show a list of commands & guides to your DM.\n Found some bug?, Use **z!contact** to let us know!\nUse **z!invite** to invite <@609383286036365362> in to your server!`)
+    .setFooter("Made By ItsZFire", "https://cdn.discordapp.com/avatars/390301501165404165/0af5081f5d86ac12831dfa4dd008e90b.png")
 
     pidor.send(helpembed);
 
 let generalembed = new Discord.RichEmbed()
     .setColor(`#4286f4`)
-    .addField(`:desktop: General Commands`, `**n!calculate/calc [question]** - Solve the math question.\n**n!icon** - Gives you the server icon\n**n!id [user]** - Show ID of user\n**n!8ball [text]** - Random the answer from the question. \n**n!avatar [user]** - Show the avatar user.\n**n!ping** - Show the current user ping/ms.\n**n!support** - Using for help\n**n!serverinfo** - Shows the information of the guild.\n**n!botinfo** - Shows the information of the bot.\n**n!guilds** - Shows a list of <@552076002101297153> guilds.\n**n!leaderboard** - Shows a list of <@552076002101297153> guilds, from the most members to least.\n**n!userinfo [user]** Shows the information of your.\n**n!uptime** - Showing online time of <@552076002101297153>.\n**n!unicode [text]** - Change text/number to unicode\n**n!weather** - Show the current weather statistics.`)
+    .addField(`:desktop: General Commands`, `**z!calculate/calc [question]** - Solve the math question.\n**z!icon** - Gives you the server icon\n**z!id [user]** - Show ID of user\n**z!8ball [text]** - Random the answer from the question. \n**z!avatar [user]** - Show the avatar user.\n**z!ping** - Show the current user ping/ms.\n**z!support** - Using for help\n**z!serverinfo** - Shows the information of the guild.\n**z!botinfo** - Shows the information of the bot.\n**z!guilds** - Shows a list of <@609383286036365362> guilds.\n**z!leaderboard** - Shows a list of <@609383286036365362> guilds, from the most members to least.\n**z!userinfo [user]** Shows the information of your.\n**z!uptime** - Showing online time of <@609383286036365362>.\n**z!unicode [text]** - Change text/number to unicode\n**z!weather** - Show the current weather statistics.`)
 
     pidor.send(generalembed);
 
 let moderatembed = new Discord.RichEmbed()
     .setColor(`#ff3a3a`)
-    .addField(`:tools: Moderation Commands`, `**n!clear [amount]** - Clear the given amount of messages.\n**n!report [user]** - report user to a guild\n**n!say [text]** - <@552076002101297153> Will chat with your given text.\n**n!poll [text]** - Vote the message by reaction.`)
+    .addField(`:tools: Moderation Commands`, `**z!clear [amount]** - Clear the given amount of messages.\n**z!report [user]** - report user to a guild\n**z!say [text]** - <@609383286036365362> Will chat with your given text.\n**z!poll [text]** - Vote the message by reaction.`)
 
     pidor.send(moderatembed);
 
 let funembed = new Discord.RichEmbed()
     .setColor(`#f4b942`)
-    .addField(`<:epic:596292541574283274> Fun Commands`, `\n**n!cat** - Give a random image of cat\n**n!dog** - Give a random image of dog.\n**n!reverse [text]** - Type to amount to reverse the message.\n**n!joke** - Send random joke.\n**n!lenny** - Will message ( ͡° ͜ʖ ͡°)\n**n!pepe** - Random pepe image.\n**n!kill [user]** - Or mention to kill him/her or suicide.\n**n!shrug** - ¯\\_\(ツ)\_\/¯ \n**n!clap [text]** - Puts 👏 between👏your👏message.\n**n!megusta** - <@552076002101297153> Will message megusta image.\n**n!morse [text]** - Translate from text to morse code/translate from morse code to text.\n**n!mock [text]** -  Mock some texts.\n**n!flip [text]** - Turn message in to flip text.\n**n!owner [user]** - Make someone to become an owner. (Troll Command)\n**n!yomama** - Give a yo-mama joke.`)
+    .addField(`<:epic:596292541574283274> Fun Commands`, `\n**z!cat** - Give a random image of cat\n**z!dog** - Give a random image of dog.\n**z!reverse [text]** - Type to amount to reverse the message.\n**z!joke** - Send random joke.\n**z!lenny** - Will message ( ͡° ͜ʖ ͡°)\n**z!pepe** - Random pepe image.\n**z!kill [user]** - Or mention to kill him/her or suicide.\n**n!shrug** - ¯\\_\(ツ)\_\/¯ \n**n!clap [text]** - Puts 👏 between👏your👏message.\n**n!megusta** - <@609383286036365362> Will message megusta image.\n**z!morse [text]** - Translate from text to morse code/translate from morse code to text.\n**z!mock [text]** -  Mock some texts.\n**z!flip [text]** - Turn message in to flip text.\n**z!owner [user]** - Make someone to become an owner. (Troll Command)\n**z!yomama** - Give a yo-mama joke.`)
 
     pidor.send(funembed);
 
-/* let musicembed = new Discord.RichEmbed()
+ let musicembed = new Discord.RichEmbed()
     .setColor(`#41c1f4`)
-    .addField(`<:headphone:553459778714730527> Music Commands`, `Music Commands is coming soon\nwaiting for PritePasZ will add the commands`)
+    .addField(`<:headphone:553459778714730527> Music Commands`, `Music Commands is coming soon\nwaiting for ItsZFire will add the commands`)
     .setTimestamp()
 
-  pidor.send(musicembed);*/
+  pidor.send(musicembed);
 
 let ownerembed = new Discord.RichEmbed()
     .setColor("#ff6a00")
-    .addField(`<:owner:596292514487599105> Owner Commands`, `**n!answer** - Answer from user are contact feedback.\n**n!eval** - Evaluates javascript code.`)
+    .addField(`<:owner:596292514487599105> Owner Commands`, `**z!answer** - Answer from user are contact feedback.\n**z!eval** - Evaluates javascript code.`)
 
     pidor.send(ownerembed)
 

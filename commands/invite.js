@@ -7,7 +7,7 @@ module.exports.run = async (bot, message, args) => {
   .setColor("#4286f4")
   .setAuthor(bname, bicon)
   .setURL("https://discordapp.com/oauth2/authorize?client_id=552076002101297153&scope=bot&permissions=2146954495")
-  .setDescription("<:OOFthumbsup:452254913427275777> **Want to invite ItsZFure?, Just click at up there!**")
+  .setDescription("<:OOFthumbsup:452254913427275777> **Want to invite ItsZFire?, Just click at up there!**")
   .setTitle(":arrow_right: Click here to invite ItsZFire in to your server! <:plus_1:557908827840970773>")
   .setFooter("Made by ItsZFire","https://cdn.discordapp.com/avatars/346579836292300800/b02ca29aee1ec133c84377bd4235e957.png")
   .setTimestamp();

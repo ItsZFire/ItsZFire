@@ -8,7 +8,7 @@ module.exports.run = async (bot, message, args) => {
     .setColor(`#f4d442`)
     .setThumbnail(bicon)
     .setAuthor(bname, bicon)
-    .setURL(`https://discord.gg/Jf6yXkV`)
+    .setURL(``)
     .setTimestamp()
     .setTitle(`Click here to join ItsZFire discord server`)
     .setDescription("Made with <:nodejs:553212483415048221> Node.js and <:discordjs:553213251488317440> Discord.js\nHosted bot for free by <:heroku:553414334156374016> Heroku")

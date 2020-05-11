@@ -1,4 +1,4 @@
-# Next RK Studio
+# ItsZFire
 
 [![Discord Bot](https://img.shields.io/badge/DiscordBot-Yes-green.svg)](https://discordapp.com/api/oauth2/authorize?client_id=552076002101297153&permissions=8&scope=bot)
 [![HitCount](http://hits.dwyl.com/PritePasZ/Nexsiz.svg)](http://hits.dwyl.com/PritePasZ/Nexsiz)
@@ -13,7 +13,7 @@ Credits : To TheSourceCode for their useful guides & tutorial on how to javascri
 
 ---
 
-# What is Next RK Studio
+# What is ItsZFire
 
 Next RK Studio is Discord Bot with alot of Fun commands and General Commands
 
@@ -28,7 +28,7 @@ By Heroku
 
 ### Using the Official Next RK Studio Bot
 
-[Click here to invite Next RK Studio in to your server!](https://discordapp.com/oauth2/authorize?client_id=6093832860363653623&scope=bot&permissions=2146954495)
+[Click here to invite ItsZFire in to your server!](https://discordapp.com/oauth2/authorize?client_id=6093832860363653623&scope=bot&permissions=2146954495)
 
 ---
 

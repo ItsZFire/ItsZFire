@@ -15,7 +15,7 @@ Credits : To TheSourceCode for their useful guides & tutorial on how to javascri
 
 # What is ItsZFire
 
-Next RK Studio is Discord Bot with alot of Fun commands and General Commands
+ItsZFire is Discord Bot with alot of Fun commands and General Commands
 
 Host bot for 24/7
 By Heroku

@@ -26,7 +26,7 @@ By Heroku
 
 * And trying to fixed some bug
 
-### Using the Official Next RK Studio Bot
+### Using the Official ItsZFire Bot
 
 [Click here to invite ItsZFire in to your server!](https://discordapp.com/oauth2/authorize?client_id=6093832860363653623&scope=bot&permissions=2146954495)
 

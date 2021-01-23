@@ -1,4 +1,4 @@
-# ItsZFire
+# Jerry
 
 [![Discord Bot](https://img.shields.io/badge/DiscordBot-Yes-green.svg)](https://discordapp.com/api/oauth2/authorize?client_id=552076002101297153&permissions=8&scope=bot)
 [![HitCount](http://hits.dwyl.com/PritePasZ/Nexsiz.svg)](http://hits.dwyl.com/PritePasZ/Nexsiz)
@@ -13,9 +13,9 @@ Credits : To TheSourceCode for their useful guides & tutorial on how to javascri
 
 ---
 
-# What is ItsZFire
+# What is Jerry
 
-ItsZFire is Discord Bot with alot of Fun commands and General Commands
+Jerry is Discord Bot with alot of Fun commands and General Commands
 
 Host bot for 24/7
 By Heroku
@@ -26,7 +26,7 @@ By Heroku
 
 * And trying to fixed some bug
 
-### Using the Official ItsZFire Bot
+### Using the Official Jerry Bot
 
 [Click here to invite ItsZFire in to your server!](https://discordapp.com/oauth2/authorize?client_id=6093832860363653623&scope=bot&permissions=2146954495)
 

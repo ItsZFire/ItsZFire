@@ -1,7 +1,7 @@
 # Jerry
 
-[![Discord Bot](https://img.shields.io/badge/DiscordBot-Yes-green.svg)](https://discordapp.com/api/oauth2/authorize?client_id=552076002101297153&permissions=8&scope=bot)
-[![HitCount](http://hits.dwyl.com/PritePasZ/Nexsiz.svg)](http://hits.dwyl.com/PritePasZ/Nexsiz)
+[![Discord Bot]()
+[![HitCount]()
 
 **Made By ItsZFire**
 
@@ -28,7 +28,7 @@ By Heroku
 
 ### Using the Official Jerry Bot
 
-[Click here to invite ItsZFire in to your server!](https://discordapp.com/oauth2/authorize?client_id=6093832860363653623&scope=bot&permissions=2146954495)
+[Click here to invite ItsZFire in to your server!]()
 
 ---
 
